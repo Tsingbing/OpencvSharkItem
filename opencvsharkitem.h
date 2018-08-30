@@ -7,7 +7,7 @@
 #include <QSGSimpleTextureNode>
 #include <QSGTexture>
 #include <QQuickWindow>
-
+//test
 class OpencvSharkItem : public QQuickItem
 {
 	Q_OBJECT

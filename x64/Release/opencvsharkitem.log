@@ -1,2 +1,36 @@
-﻿  Generate moc_predefs.h
+﻿  Moc'ing opencvsharkitem.h...
+  Moc'ing opencvsharkitem_plugin.h...
+  Generate moc_predefs.h
+  moc_opencvsharkitem.cpp
+D:\opencv-3.2-build\install\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  moc_opencvsharkitem_plugin.cpp
+  camerathread.cpp
+D:\opencv-3.2-build\install\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+camerathread.cpp(16): warning C4819: 该文件包含不能在当前代码页(0)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+camerathread.cpp(50): warning C4101: “cnum”: 未引用的局部变量
+camerathread.cpp(31): warning C4189: “onceRun”: 局部变量已初始化但不引用
+camerathread.cpp(84): warning C4189: “c”: 局部变量已初始化但不引用
+camerathread.cpp(147): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  opencvsharkitem.cpp
+D:\opencv-3.2-build\install\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  opencvsharkitem_plugin.cpp
+D:\opencv-3.2-build\install\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv-3.2-build\install\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+    正在创建库 release\\OpencvSharkItem.lib 和对象 release\\OpencvSharkItem.exp
   opencvsharkitem.vcxproj -> E:\01_RobotSea\01_Pro\01_SelfPlugins\OpencvSharkItem\release\OpencvSharkItem.dll
