@@ -98,5 +98,6 @@
     <None Include="qmldir">
       <Filter>Distribution Files</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>

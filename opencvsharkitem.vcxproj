@@ -200,6 +200,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="qmldir" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="camerathread.h">
