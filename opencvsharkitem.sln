@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencvsharkitem", "opencvsharkitem.vcxproj", "{CFD2DD01-CE6C-390C-8109-666144E10E1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "serialportitem", "..\SerialPortItem\serialportitem.vcxproj", "{E48B2647-E210-39E6-B36A-D4191B4E4418}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stmserialportitem", "..\StmSerialPortItem\stmserialportitem.vcxproj", "{55264038-AB33-305B-BF69-0C91C14BD7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD2DD01-CE6C-390C-8109-666144E10E1D}.Debug|x64.ActiveCfg = Debug|x64
+		{CFD2DD01-CE6C-390C-8109-666144E10E1D}.Debug|x64.Build.0 = Debug|x64
+		{CFD2DD01-CE6C-390C-8109-666144E10E1D}.Release|x64.ActiveCfg = Release|x64
+		{CFD2DD01-CE6C-390C-8109-666144E10E1D}.Release|x64.Build.0 = Release|x64
+		{E48B2647-E210-39E6-B36A-D4191B4E4418}.Debug|x64.ActiveCfg = Debug|x64
+		{E48B2647-E210-39E6-B36A-D4191B4E4418}.Debug|x64.Build.0 = Debug|x64
+		{E48B2647-E210-39E6-B36A-D4191B4E4418}.Release|x64.ActiveCfg = Release|x64
+		{E48B2647-E210-39E6-B36A-D4191B4E4418}.Release|x64.Build.0 = Release|x64
+		{55264038-AB33-305B-BF69-0C91C14BD7CD}.Debug|x64.ActiveCfg = Debug|x64
+		{55264038-AB33-305B-BF69-0C91C14BD7CD}.Debug|x64.Build.0 = Debug|x64
+		{55264038-AB33-305B-BF69-0C91C14BD7CD}.Release|x64.ActiveCfg = Release|x64
+		{55264038-AB33-305B-BF69-0C91C14BD7CD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
